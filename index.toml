@@ -810,7 +810,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-quests-fabric.toml"
-hash = "0cfb5dd9993e41a4702522f5ccb212bc2c0775453c2d9d2339c05b134feb9feb"
+hash = "6ad77c43d09f46fc4f96acb439a3b7a419a7f08de4cbd2532baf22a773bce0e4"
 metafile = true
 
 [[files]]
@@ -880,7 +880,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs-fabric.toml"
-hash = "f0efa9682391f5f14f0d6f9ae52805761f3a552eb3f532abbd85c1dd3caacf8f"
+hash = "5b9369b51a18d2255b6ebef4433b7517e85c34c72cb884fcd40c59661c336c58"
 metafile = true
 
 [[files]]
@@ -1020,7 +1020,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.toml"
-hash = "7979ae0dc667b281df7d600c563788e36c83da23bb28796ca7195e44431de491"
+hash = "3758d873739407441884628ea866bc4ebea98aaf462d65abf204284fcf253318"
 metafile = true
 
 [[files]]
@@ -1030,7 +1030,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "0b9a13e000539562ef0651788f0c4bf20efe74671d6d211d3c5c8e9b7c4daf20"
+hash = "9977cf6e2e345455f66a2dac2997b6dd4b0ea15552ab5345334659fe183ff944"
 metafile = true
 
 [[files]]
