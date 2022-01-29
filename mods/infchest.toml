@@ -1,0 +1,13 @@
+name = "Inf Chest"
+filename = "InfChest-18.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3559/849/InfChest-18.1-fabric.jar"
+hash-format = "murmur2"
+hash = "2797252450"
+
+[update]
+[update.curseforge]
+file-id = 3559849
+project-id = 312222

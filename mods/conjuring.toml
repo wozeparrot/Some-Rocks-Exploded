@@ -1,0 +1,13 @@
+name = "Conjuring [Fabric/Forge]"
+filename = "conjuring-1.0.20+1.18.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3615/193/conjuring-1.0.20+1.18.jar"
+hash-format = "murmur2"
+hash = "2279599039"
+
+[update]
+[update.curseforge]
+file-id = 3615193
+project-id = 422310

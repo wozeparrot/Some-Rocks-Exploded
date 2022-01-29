@@ -1,0 +1,13 @@
+name = "Blockshifter [Fabric]"
+filename = "blockshifter-1.4.1+fabric-1.18.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3564/429/blockshifter-1.4.1+fabric-1.18.jar"
+hash-format = "murmur2"
+hash = "4115194935"
+
+[update]
+[update.curseforge]
+file-id = 3564429
+project-id = 398676

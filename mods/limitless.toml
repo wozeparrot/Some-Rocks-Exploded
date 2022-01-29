@@ -1,0 +1,13 @@
+name = "limitless"
+filename = "limitless-1.6.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Qx0jUYY8/versions/1.6.6/limitless-1.6.6.jar"
+hash-format = "sha512"
+hash = "c6a112590ff6e9846ccdc925773258deeedad8daa53e35d4682dc6dd20266a9dfcc7e56a56db69b1ebab2bd473c1cf9ddade4555aad90c1e080a9de89838848e"
+
+[update]
+[update.modrinth]
+mod-id = "Qx0jUYY8"
+version = "dEADWDAg"

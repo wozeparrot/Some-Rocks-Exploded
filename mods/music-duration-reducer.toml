@@ -1,0 +1,13 @@
+name = "Music Duration Reducer"
+filename = "music-duration-reducer-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3565/444/music-duration-reducer-1.0.0.jar"
+hash-format = "murmur2"
+hash = "1975858767"
+
+[update]
+[update.curseforge]
+file-id = 3565444
+project-id = 400131

@@ -1,0 +1,13 @@
+name = "The Corners"
+filename = "the-corners-1.1.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3605/294/the-corners-1.1.4.jar"
+hash-format = "murmur2"
+hash = "830735222"
+
+[update]
+[update.curseforge]
+file-id = 3605294
+project-id = 523644

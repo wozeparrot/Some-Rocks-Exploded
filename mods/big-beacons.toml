@@ -1,0 +1,13 @@
+name = "Big Beacons"
+filename = "bigbeacons-1.2.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3580/69/bigbeacons-1.2.4.jar"
+hash-format = "murmur2"
+hash = "1502027102"
+
+[update]
+[update.curseforge]
+file-id = 3580069
+project-id = 450922

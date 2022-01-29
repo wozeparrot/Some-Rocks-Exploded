@@ -1,0 +1,16 @@
+name = "Some Rocks Exploded"
+author = "wozeparrot"
+version = "1.0.0"
+pack-format = "packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d0ed42e60832ec8bcfa295f27b11db6589bfc098a663ee94ed72eeb6c8700d37"
+
+[versions]
+fabric = "0.12.12"
+minecraft = "1.18.1"
+
+[options]
+acceptable-game-versions = ["1.18", "1.18.1"]

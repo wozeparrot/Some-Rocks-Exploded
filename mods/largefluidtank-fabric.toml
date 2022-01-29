@@ -1,0 +1,13 @@
+name = "Large Fluid Tank for Fabric"
+filename = "LargeFluidTank-18.3.421-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3611/861/LargeFluidTank-18.3.421-fabric.jar"
+hash-format = "murmur2"
+hash = "1953197630"
+
+[update]
+[update.curseforge]
+file-id = 3611861
+project-id = 411564

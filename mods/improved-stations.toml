@@ -1,0 +1,13 @@
+name = "Improved Stations (Fabric)"
+filename = "improved-stations-2.0.8.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3578/809/improved-stations-2.0.8.jar"
+hash-format = "murmur2"
+hash = "3323963992"
+
+[update]
+[update.curseforge]
+file-id = 3578809
+project-id = 355914

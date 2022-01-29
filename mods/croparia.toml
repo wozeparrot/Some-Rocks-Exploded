@@ -1,0 +1,13 @@
+name = "Croparia v3 [FORGE/FABRIC]"
+filename = "[FABRIC]-Croparia-0.0.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3621/179/[FABRIC]-Croparia-0.0.7.jar"
+hash-format = "murmur2"
+hash = "2959456027"
+
+[update]
+[update.curseforge]
+file-id = 3621179
+project-id = 250235

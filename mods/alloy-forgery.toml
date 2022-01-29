@@ -1,0 +1,13 @@
+name = "Alloy Forgery"
+filename = "wraith-alloy-forgery-2.0.8+1.18.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3571/264/wraith-alloy-forgery-2.0.8+1.18.jar"
+hash-format = "murmur2"
+hash = "329630496"
+
+[update]
+[update.curseforge]
+file-id = 3571264
+project-id = 438718

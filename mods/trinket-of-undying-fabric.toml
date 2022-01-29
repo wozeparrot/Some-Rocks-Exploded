@@ -1,0 +1,13 @@
+name = "Trinket of Undying (Fabric)"
+filename = "trinketofundying-fabric-2.0.1-1.18.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3553/494/trinketofundying-fabric-2.0.1-1.18.jar"
+hash-format = "murmur2"
+hash = "3053564712"
+
+[update]
+[update.curseforge]
+file-id = 3553494
+project-id = 395547
