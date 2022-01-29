@@ -1,0 +1,13 @@
+name = "Soaring Structures 2 - Forge / Fabric"
+filename = "Soaring-Structures-2-1.18.1-2.2-FABRIC.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3624/749/Soaring-Structures-2-1.18.1-2.2-FABRIC.jar"
+hash-format = "murmur2"
+hash = "3943807613"
+
+[update]
+[update.curseforge]
+file-id = 3624749
+project-id = 496835

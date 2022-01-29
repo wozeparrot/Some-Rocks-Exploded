@@ -1,9 +1,9 @@
 name = "Stemaria [FORGE/FABRIC]"
-filename = "[FABRIC]-Stemaria-1.1.2.jar"
+filename = "%5BFABRIC%5D-Stemaria-1.1.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3622/67/[FABRIC]-Stemaria-1.1.2.jar"
+url = "https://edge.forgecdn.net/files/3622/67/%5BFABRIC%5D-Stemaria-1.1.2.jar"
 hash-format = "murmur2"
 hash = "3460953095"
 

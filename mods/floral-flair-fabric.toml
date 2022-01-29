@@ -1,0 +1,13 @@
+name = "🌷Floral Flair🌷"
+filename = "Floral-Flair-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3603/635/Floral-Flair-1.1.2.jar"
+hash-format = "murmur2"
+hash = "759922829"
+
+[update]
+[update.curseforge]
+file-id = 3603635
+project-id = 549363
