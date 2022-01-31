@@ -1,0 +1,243 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  baseheight = 1080
+  action = autoscale
+  basewidth = 1920
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=400310%
+  orientation = bottom-left
+  x = 309
+  action = movebutton
+  y = -189
+}
+
+customization {
+  identifier = %id=400310%
+  width = 150
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400310%
+  seconds = 2.0
+  onlyfirsttime = false
+  fadein = true
+  fadeinspeed = 3.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=400358%
+  orientation = bottom-right
+  x = -460
+  action = movebutton
+  y = -240
+}
+
+customization {
+  identifier = %id=400358%
+  width = 150
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400358%
+  seconds = 2.0
+  onlyfirsttime = false
+  fadein = true
+  fadeinspeed = 3.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=604394%
+  orientation = element
+  orientation_element = vanillabtn:376394
+  x = 0
+  action = movebutton
+  y = -30
+}
+
+customization {
+  identifier = %id=604394%
+  action = setbuttonlabel
+  value = A
+}
+
+customization {
+  identifier = %id=604394%
+  seconds = 2.0
+  onlyfirsttime = false
+  fadein = true
+  fadeinspeed = 3.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=400286%
+  orientation = element
+  orientation_element = vanillabtn:400310
+  x = 0
+  action = movebutton
+  y = -40
+}
+
+customization {
+  identifier = %id=400286%
+  width = 150
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400286%
+  seconds = 2.0
+  onlyfirsttime = false
+  fadein = true
+  fadeinspeed = 3.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=400334%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=400394%
+  orientation = element
+  orientation_element = vanillabtn:502394
+  x = 0
+  action = movebutton
+  y = -30
+}
+
+customization {
+  identifier = %id=400394%
+  width = 100
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400394%
+  action = setbuttonlabel
+  value = Options
+}
+
+customization {
+  identifier = %id=400394%
+  seconds = 2.0
+  onlyfirsttime = false
+  fadein = true
+  fadeinspeed = 3.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=502394%
+  orientation = bottom-right
+  x = -410
+  action = movebutton
+  y = -180
+}
+
+customization {
+  identifier = %id=502394%
+  width = 100
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=502394%
+  action = sethoverlabel
+  label = Are You Sure?
+}
+
+customization {
+  identifier = %id=502394%
+  seconds = 2.0
+  onlyfirsttime = false
+  fadein = true
+  fadeinspeed = 3.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=376394%
+  orientation = element
+  orientation_element = vanillabtn:502394
+  x = -50
+  action = movebutton
+  y = 0
+}
+
+customization {
+  identifier = %id=376394%
+  action = setbuttonlabel
+  value = L
+}
+
+customization {
+  identifier = %id=376394%
+  seconds = 2.0
+  onlyfirsttime = false
+  fadein = true
+  fadeinspeed = 3.0
+  action = hidebuttonfor
+}
+
+customization {
+  orientation = top-centered
+  shape = rectangle
+  color = #867696
+  delayappearanceseconds = 2.0
+  fadein = true
+  fadeinspeed = 1.0
+  x = -210
+  width = 420
+  action = addshape
+  actionid = 3dea6a5a-7d84-4c2e-bcb3-d9195234062a1643669188855
+  y = 140
+  delayappearance = true
+  delayappearanceeverytime = true
+  height = 100
+}
+
+customization {
+  orientation = element
+  shadow = true
+  delayappearanceseconds = 1.0
+  scale = 3.0
+  fadein = true
+  fadeinspeed = 2.0
+  orientation_element = 3dea6a5a-7d84-4c2e-bcb3-d9195234062a1643669188855
+  x = 214
+  actionid = a74b1d5b-a9a1-4650-9699-d5e4941b63311643669316351
+  action = addtext
+  y = 38
+  delayappearance = true
+  alignment = centered
+  value = Some Rocks Exploded
+  delayappearanceeverytime = true
+}
+
