@@ -1,13 +1,13 @@
 name = "Sandwichable"
-filename = "sandwichable-1.2-rc3A+1.18.jar"
+filename = "sandwichable-1.2-rc4+1.18.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/5g7OOxWC/versions/1.2-rc3A+1.18/sandwichable-1.2-rc3A+1.18.jar"
+url = "https://cdn.modrinth.com/data/5g7OOxWC/versions/1.2-rc4+1.18/sandwichable-1.2-rc4+1.18.jar"
 hash-format = "sha512"
-hash = "b85a2afbc0624722d32900acb34b11d061f06cc8403ab5293984833428b3dea52887f66431adf2e01bd5563258b8c30cfc2b605ed2826097bec2dcb7062e91c1"
+hash = "a94d3823e80d909b747a68d3f079dc73017daee2b59e6329ac4ac06df8b8e8e9890629c504c55669ce873d5fb6b9d8bb132d4aeea6982e127c06d1d959150e5e"
 
 [update]
 [update.modrinth]
 mod-id = "5g7OOxWC"
-version = "mnSIfFJ1"
+version = "RGaiu2kF"

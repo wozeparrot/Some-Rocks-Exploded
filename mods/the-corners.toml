@@ -1,13 +1,13 @@
 name = "The Corners"
-filename = "the-corners-1.1.4.jar"
+filename = "the-corners-1.1.5.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3605/294/the-corners-1.1.4.jar"
+url = "https://edge.forgecdn.net/files/3630/825/the-corners-1.1.5.jar"
 hash-format = "murmur2"
-hash = "830735222"
+hash = "402381915"
 
 [update]
 [update.curseforge]
-file-id = 3605294
+file-id = 3630825
 project-id = 523644

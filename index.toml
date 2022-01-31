@@ -565,7 +565,7 @@ metafile = true
 
 [[files]]
 file = "mods/alloy-forgery.toml"
-hash = "a4f60309cdf62094d2c28e5d12b3c0c3c3f41f57e9ea0af1801759df459dce76"
+hash = "3e7271c99d18f80ccfa995b728f528020f72292d96bd5afea49d1464475bda65"
 metafile = true
 
 [[files]]
@@ -575,12 +575,12 @@ metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2-wireless-terminals.toml"
-hash = "3c87754b4a9a87fad2bef1dba603a4408efa4f2061a9ab912185f25a08d5ad5a"
+hash = "ccf1b544554c5068429856569789ad2b375743a19332f4131a20ff6cdc39ed01"
 metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2.toml"
-hash = "1b4ea02c78c0107ca572b7dc9cfa9847f5074e72bf77c19aae67b66346b34bda"
+hash = "cb7575c5feedc0638434537b5d1d51e729b8755784f0a7f30bb6bc881a5a658c"
 metafile = true
 
 [[files]]
@@ -590,7 +590,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "5c87334b84ed36f60b1729c24daabf8975c2f1062bde04429c38d893c27da13b"
+hash = "493e5778aec8466422ed2553e761de8367e34057ed9043d00d427debce6b1dea"
 metafile = true
 
 [[files]]
@@ -760,7 +760,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "fddae77c9ef535807b9e347d8ad3d74f13ad6e3350b6d5499366d140dd0832f3"
+hash = "f582ab93d5ca761f657f1d1528a0c10f52b2ed79e42f577a2350299ad8a291bd"
 metafile = true
 
 [[files]]
@@ -915,7 +915,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.toml"
-hash = "c18f62891b78ce9b32f26a7900f219c982000d5798a1e95a6f310f23a047f54b"
+hash = "0fb4ed3155243518a5690d4cc7f0d6d9bf44c4f3c5fc502853c82cc25a174ca6"
 metafile = true
 
 [[files]]
@@ -975,7 +975,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.toml"
-hash = "c4256b2d723c874c7790652d088d80dd42304106dc3f6b2f16be9e5bafa5491b"
+hash = "d9f6bc53b6a325279f4c83679edebae7f9a6db4057d5b13d69aed1e2c5ae094a"
 metafile = true
 
 [[files]]
@@ -985,7 +985,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli-fabric.toml"
-hash = "0fe48729e9ef6e97753ca84ad59e87960b1d1440a00f6803ade27069a06bb43b"
+hash = "ad0d1d0dcb082514f0cedf8493a18694f6467c782aec2a592025809ac29d7c26"
 metafile = true
 
 [[files]]
@@ -1040,7 +1040,7 @@ metafile = true
 
 [[files]]
 file = "mods/sandwichable.toml"
-hash = "10f9a431fe1a4df517daf33559f866179784eefe68ae95b8261173168d19c274"
+hash = "4780ab1d02a1ec9ec50780f296d702b558d93fe2381298a34a18398611bfa9ec"
 metafile = true
 
 [[files]]
@@ -1105,12 +1105,12 @@ metafile = true
 
 [[files]]
 file = "mods/the-corners.toml"
-hash = "af181359f449d0b3f15b87a50115de0ad316c8cc472bf5f4d6ffb0feccfa2fc8"
+hash = "35e1e2cb34f80e23e13327d90b5e00e52ae29496907d7ca03e327a6566a93fb3"
 metafile = true
 
 [[files]]
 file = "mods/things-fabric.toml"
-hash = "ba83476f738f40ff4302810939c89f4622796e71fd6fbc325ab00a246488ce65"
+hash = "db9252a3dd0f4e05873bd72951a9ad96a67ebe5034b1598b4e194f8ea1d2643e"
 metafile = true
 
 [[files]]
@@ -1130,7 +1130,7 @@ metafile = true
 
 [[files]]
 file = "mods/trinkets-fabric.toml"
-hash = "0e0379dd8343af1400748b8b7d24bb7702fe7d8831857e0e09d903462d013691"
+hash = "4bff6737922a7e793a56050a9ec935f656248096d59fadf75bbbaa02f0eb6f7c"
 metafile = true
 
 [[files]]
