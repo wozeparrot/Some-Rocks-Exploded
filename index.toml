@@ -509,6 +509,14 @@ file = "kubejs/config/common.properties"
 hash = "3c4c6ac65b172bcad90893a030c4f90dfae7143bb06ebd3368e0273695c02a03"
 
 [[files]]
+file = "kubejs/data/trinkets/slots/hand/ring.json"
+hash = "e74d6b1740032719d7331fa44120d48766759753b513a30483f49f3f5aa503a0"
+
+[[files]]
+file = "kubejs/data/trinkets/slots/offhand/ring.json"
+hash = "8c513863ecfd8a7064e387314484c1ac39da1076cb4ca4f6c5ada42f7c97da6d"
+
+[[files]]
 file = "kubejs/exported/tags/biomes.txt"
 hash = "cb8e7f30d2b22578be229b1ce347383f5fd8ad7a8cfac8cede6678553106b14c"
 
@@ -719,6 +727,11 @@ hash = "090a3a22eaeeb7ffa319662c9f8785515e771551525116b5d6b7fa60d232b40e"
 metafile = true
 
 [[files]]
+file = "mods/dark-loading-screen.toml"
+hash = "a7129404822518447540c087931a3b208024badcef8dc2bad430753eac66edc6"
+metafile = true
+
+[[files]]
 file = "mods/dawn.toml"
 hash = "9ce2e3b107b450b2a76132d56f328ab717d61bd5110f364ff32c45e05171fce5"
 metafile = true
@@ -734,6 +747,11 @@ hash = "ab300447e6463147e2806c797bc7139934c128b45be8507f9e7a3f05dab1aa7c"
 metafile = true
 
 [[files]]
+file = "mods/defaultsettings-fabric.toml"
+hash = "04accf08a328e6bffeec23a58d71e8814ac7f90e41dd0436e03a5652ca687350"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.toml"
 hash = "895af62871364c14a635aa674074ab0e5dc88fa41eb6a60bdab075feb106a6fe"
 metafile = true
@@ -741,6 +759,11 @@ metafile = true
 [[files]]
 file = "mods/ears.toml"
 hash = "4befc3fa8e526a184ce63a32f9a90861deb812e207935456b8e12972120943ce"
+metafile = true
+
+[[files]]
+file = "mods/exlines-furniture.toml"
+hash = "67cbc7c3fc72cb9def43dc6b2610ba13f39996320ef592ee09d24f3e47400b46"
 metafile = true
 
 [[files]]
@@ -779,6 +802,11 @@ hash = "b239b2745227716b50546a07418c67f6a488e05a475cbc54fae6d8c2b1598eb5"
 metafile = true
 
 [[files]]
+file = "mods/fabric-rings-of-ascension.toml"
+hash = "f56d2388d182e78fb5caa3134885d0884f672efd0d2de5d33cb8863cf363ff28"
+metafile = true
+
+[[files]]
 file = "mods/fabric-waystones.toml"
 hash = "97e429a76c84a6edc11c5120e86f9f10872a37555477b494676677753da3fa78"
 metafile = true
@@ -786,6 +814,11 @@ metafile = true
 [[files]]
 file = "mods/fallingleaves.toml"
 hash = "9cf99d52d49866372e0ef7b0653fcfb95b6efe08e88827358b340e639c31b4de"
+metafile = true
+
+[[files]]
+file = "mods/fancymenu-fabric.toml"
+hash = "c9471c0ad11c48ba3ac9ad8e4925623b9aaca7f707a7ebdc945225e46c42001d"
 metafile = true
 
 [[files]]
@@ -801,6 +834,11 @@ metafile = true
 [[files]]
 file = "mods/floral-flair-fabric.toml"
 hash = "34558e376dc39aa33e4f31b5aa463e88773799f8267fd38bb6217d944ad5ee91"
+metafile = true
+
+[[files]]
+file = "mods/ftb-chunks-fabric.toml"
+hash = "896b5bd9861b6747c0eb6e00bb67131080b662239af1353ac93f5d32541631c1"
 metafile = true
 
 [[files]]
@@ -869,6 +907,11 @@ hash = "f3b002eda0f01ba320f105559845e4680ecfedb6272f71a2c6468914301fc693"
 metafile = true
 
 [[files]]
+file = "mods/konkrete-fabric.toml"
+hash = "a8593cbd7057ade74e44a380fb2decb5ae26fa32bf37f8527aaba36a4d571322"
+metafile = true
+
+[[files]]
 file = "mods/krypton.toml"
 hash = "ffa430c24d8d6862b804c483a9070340fd3a89f858f8a5869b715534a06a04de"
 metafile = true
@@ -914,6 +957,11 @@ hash = "490cf7564c6825e36933785196a6302c58f9d2658f60e2d2fb1f85ed112e36d1"
 metafile = true
 
 [[files]]
+file = "mods/load-my-resources-fabric.toml"
+hash = "f90fb5ada6afd0a3da6911481c7eba090f7b45a02d7c3771a7e3b1a629b47664"
+metafile = true
+
+[[files]]
 file = "mods/malilib.toml"
 hash = "0fb4ed3155243518a5690d4cc7f0d6d9bf44c4f3c5fc502853c82cc25a174ca6"
 metafile = true
@@ -951,6 +999,11 @@ metafile = true
 [[files]]
 file = "mods/mythicmetals.toml"
 hash = "c7cda352f5d350910ab7504916348187557c5ab2319a3ce4e3e6ec5011c59529"
+metafile = true
+
+[[files]]
+file = "mods/nikolite-expansion.toml"
+hash = "7b6ebb90b6bc8da4fe47b49c94614e05547ef7a36464756aa2eb70af1c9037f2"
 metafile = true
 
 [[files]]
@@ -1044,6 +1097,11 @@ hash = "4780ab1d02a1ec9ec50780f296d702b558d93fe2381298a34a18398611bfa9ec"
 metafile = true
 
 [[files]]
+file = "mods/seamless-loading-screen.toml"
+hash = "3429d8e51a5ec1f6ccc7206587366f8eee4f34fb694281de4f092ef755a56605"
+metafile = true
+
+[[files]]
 file = "mods/secret-rooms-fabric.toml"
 hash = "b8891f2392ee27be2e0bb20dd82e1d757f13b49e6abf4b206d09764babb2c7e4"
 metafile = true
@@ -1056,6 +1114,11 @@ metafile = true
 [[files]]
 file = "mods/slotlink.toml"
 hash = "a101faa42a2eaa474b2fb6de9f52a00043a855117a4da41f2993843133aca6bd"
+metafile = true
+
+[[files]]
+file = "mods/smooth-scrolling-everywhere-fabric.toml"
+hash = "a907e5e9bea0437bbaf3f4e0c09d6755b67b5dffd23911ae2057a620ae82de8a"
 metafile = true
 
 [[files]]
