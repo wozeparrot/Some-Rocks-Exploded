@@ -3,7 +3,10 @@
   "prevVersion": "3.0.2",
   "initPopup": true,
   "generatedBy": "\u003cdefault\u003e",
-  "hashes": {},
+  "hashes": {
+    "Default/keys.txt": "AC7F296E5C6CADA3781AC8384FB0D281",
+    "Default/options.txt": "AFA9F42D68B81C44ECE33D74132CAD5F"
+  },
   "mainProfile": "Default",
   "initially_created": "31.01.2022 17:29:39"
 }
