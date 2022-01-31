@@ -55,7 +55,8 @@ const UNIFICATION_ORDER = [
     "indrev",
     "techreborn",
     "croptopia",
-    "ae2"
+    "ae2",
+    "mythicmetals"
 ];
 // List of tags NOT to unify
 const UNIFICATION_BLACKLIST = [
