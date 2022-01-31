@@ -1,10 +1,8 @@
-////////////////////////
-/// Made by Team AOF ///
-////////////////////////
+// Made by Team AOF
+// Modified By wozeparrot
 
-//////////////////////////////////////////////////
-// AOF Unification Script - MIT licensed. //
-//////////////////////////////////////////////////
+// Modified AOF Unification Script For Some Rocks Exploded
+// Original License: MIT
 
 const GENERATE_REI_SCRIPT = false;
 // List of part tags to unify.
