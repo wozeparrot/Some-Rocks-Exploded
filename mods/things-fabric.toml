@@ -1,13 +1,13 @@
 name = "Things [Fabric]"
-filename = "things-0.2.13+1.18.jar"
+filename = "things-0.2.14+1.18.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3629/607/things-0.2.13+1.18.jar"
+url = "https://edge.forgecdn.net/files/3631/572/things-0.2.14+1.18.jar"
 hash-format = "murmur2"
-hash = "4053205706"
+hash = "2749271292"
 
 [update]
 [update.curseforge]
-file-id = 3629607
+file-id = 3631572
 project-id = 456151

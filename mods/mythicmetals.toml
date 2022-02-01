@@ -1,13 +1,13 @@
 name = "Mythic Metals"
-filename = "mythicmetals-0.11.3.jar"
+filename = "mythicmetals-0.11.4.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3609/727/mythicmetals-0.11.3.jar"
+url = "https://edge.forgecdn.net/files/3631/448/mythicmetals-0.11.4.jar"
 hash-format = "murmur2"
-hash = "57744638"
+hash = "300443386"
 
 [update]
 [update.curseforge]
-file-id = 3609727
+file-id = 3631448
 project-id = 410127
