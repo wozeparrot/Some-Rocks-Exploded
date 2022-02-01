@@ -5,10 +5,6 @@ file = "config/Adorn.json5"
 hash = "8da5ecea38874275a7bbfefced4d26759a2f3d03f9a39b52fefb84d6784c636e"
 
 [[files]]
-file = "config/PlasmoVoice/server.yml"
-hash = "69f67f4cc561a6189707d82cae5d5797d52079289fee8a157c5e08a027981313"
-
-[[files]]
 file = "config/additional-additions-config.json"
 hash = "953d925ac98d75a34e5874e373d1a4840e9121d14324c047954da92e1b4fa9a5"
 
@@ -1072,6 +1068,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph-fabric.toml"
 hash = "c30f1523e9c1c03b65d0a5f8b6820260f7054531c8f2011ac1e51c4b045141c8"
+metafile = true
+
+[[files]]
+file = "mods/quarry-reborn.toml"
+hash = "c981f65c97fff1b81d74013b6eb9c0f1bbed0e7a25971c00fa762cc082d48646"
 metafile = true
 
 [[files]]
