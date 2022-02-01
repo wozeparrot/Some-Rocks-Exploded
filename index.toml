@@ -217,10 +217,6 @@ file = "config/extragenerators.json"
 hash = "fe765b59314e50dbcd1865be149afd04d951ef301b76341cde266c40305884c0"
 
 [[files]]
-file = "config/fabric/indigo-renderer.properties"
-hash = "e1bbff9ee1ec1442f03f32309f3d93fc4b93883db255d60a2fe93810a5b59929"
-
-[[files]]
 file = "config/fallingleaves.json"
 hash = "83191041ce7249f7111b808fb57e766738a0f913594792443730ce01b77a5a9f"
 
