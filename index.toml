@@ -170,7 +170,15 @@ hash = "741cf283f9798d6ebca0d735c336071e7c13777942e1766bb07230a64bd4cfc5"
 
 [[files]]
 file = "config/defaultsettings.json"
-hash = "7048082d84b2db53792fabbfe5eac7b34afd3311c307e1d8c0d7088e5a5419c9"
+hash = "da8c73a8fd41c62e55b9507e314a213268e0021a5dd75b52997c83f05b31a87c"
+
+[[files]]
+file = "config/defaultsettings/Default/keys.txt"
+hash = "3f15a8e1f719dc4004a0f90113564cdf180eee1bdf0ed5cc39d29641a037ce53"
+
+[[files]]
+file = "config/defaultsettings/Default/options.txt"
+hash = "95a488f497263eb40f9e1d21c9dbc5b06d1ec7203c2ed232dacbe860799d04ad"
 
 [[files]]
 file = "config/defaultsettings/sharedConfigs/ignore.json"
@@ -422,7 +430,7 @@ hash = "9d0bba7129d39e84ca1b07c8a7d3377fa16a1e5622fd1750315372ae49786dc2"
 
 [[files]]
 file = "config/sound_physics.json5"
-hash = "85dacc968dbc7a0b90fd458d6872715ab021a377405e8c6e04bfb062910eede9"
+hash = "6ba1742d6f72231c15e0c73958f9067f6c86d585ab65b96bfb8c558314608c94"
 
 [[files]]
 file = "config/spiceoffabric.hjson"
