@@ -22,9 +22,9 @@ customization {
 customization {
   identifier = %id=400310%
   orientation = bottom-left
-  x = 309
+  x = 310
   action = movebutton
-  y = -189
+  y = -120
 }
 
 customization {
@@ -48,7 +48,7 @@ customization {
   orientation = bottom-right
   x = -460
   action = movebutton
-  y = -240
+  y = -170
 }
 
 customization {
@@ -155,9 +155,9 @@ customization {
 customization {
   identifier = %id=502394%
   orientation = bottom-right
-  x = -410
+  x = -409
   action = movebutton
-  y = -180
+  y = -110
 }
 
 customization {
@@ -217,7 +217,7 @@ customization {
   width = 420
   action = addshape
   actionid = 3dea6a5a-7d84-4c2e-bcb3-d9195234062a1643669188855
-  y = 140
+  y = 60
   delayappearance = true
   delayappearanceeverytime = true
   height = 100
@@ -239,5 +239,16 @@ customization {
   alignment = centered
   value = Some Rocks Exploded
   delayappearanceeverytime = true
+}
+
+customization {
+  path = sre-banner.png
+  orientation = mid-centered
+  x = -226
+  width = 468
+  action = addtexture
+  actionid = abc0ddf6-e74b-4829-aa8e-0da3a56d0ef21643930112911
+  y = -227
+  height = 468
 }
 

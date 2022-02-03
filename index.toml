@@ -29,6 +29,10 @@ file = "config/arcanus.json5"
 hash = "63954f69f42703087f5504aab63f881b3d607443709a8992b424d30748aa9694"
 
 [[files]]
+file = "config/attributefix.json"
+hash = "abdad1552ea325140bf36b8a206999ea39f6781d557a485a7ae57645b4ec308f"
+
+[[files]]
 file = "config/bclib/biomes.json"
 hash = "2369e41bd94b841f8885ae8f3d69767832afa89872f31915db4bdbccdfd3c267"
 
@@ -226,7 +230,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/0.txt"
-hash = "4c2e9617c5fb0ae63b4a4d4fddedceab69941c3c4af93256f707f8c2267b5e5b"
+hash = "33874144673988f9da640d8517a20d6008efc008e7f8d7bb1f16e1deed1fb42d"
 
 [[files]]
 file = "config/fancymenu/locals/de_de.local"
@@ -373,6 +377,10 @@ file = "config/polymorph-integrations.json"
 hash = "a2265718e1a37b1fd80cb72bcfd5787d90cf24b944bea87b3fd86c85b9fdbc95"
 
 [[files]]
+file = "config/quarrymod/machines.json"
+hash = "8639e4327abc731e5ecc2e3b7419575e227fab78d2d2e0dc2ab6e4b8051b681f"
+
+[[files]]
 file = "config/reborncore/misc.json"
 hash = "820f40848e6daeb5d9c1998f04082cc419865c84b968cbdcc6c2e39798bd1f71"
 
@@ -422,7 +430,7 @@ hash = "9d0bba7129d39e84ca1b07c8a7d3377fa16a1e5622fd1750315372ae49786dc2"
 
 [[files]]
 file = "config/sound_physics.json5"
-hash = "6ba1742d6f72231c15e0c73958f9067f6c86d585ab65b96bfb8c558314608c94"
+hash = "25b35bbbf5904b3d5f581196e71a7368645066eb670aade6a931819deb770410"
 
 [[files]]
 file = "config/spiceoffabric.hjson"
@@ -1234,3 +1242,11 @@ metafile = true
 file = "mods/youre-in-grave-danger.toml"
 hash = "99f0f9d21c6a86f73f6d5cb57fee44becda4631f875151d780cccf9fd8699539"
 metafile = true
+
+[[files]]
+file = "sre-banner.png"
+hash = "9717a0088335b0d79498ccee55f08124ef404802aee6786e07c89f2e4c29e0e7"
+
+[[files]]
+file = "sre-logo.png"
+hash = "b7cba49519818f4a251004ba09e4d7758999de4c1198d98a88fb8fabcba453c7"
