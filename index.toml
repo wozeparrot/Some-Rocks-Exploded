@@ -611,6 +611,11 @@ hash = "9d404890b39de9d14bf6cb0ef682d5a6df876be7bb50f2e5bc2a8be68012775a"
 metafile = true
 
 [[files]]
+file = "mods/attributefix.toml"
+hash = "312063d2032f2e4bdbfdf1beef20b7dca54ec7aeb0a5f044473594e6acb18e85"
+metafile = true
+
+[[files]]
 file = "mods/balm-fabric.toml"
 hash = "4520fc3c1966dd15bedf15fb4facdbf3b80d60727962be6cdc6c5f72584eb14a"
 metafile = true
