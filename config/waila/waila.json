@@ -13,15 +13,15 @@
   "overlay": {
     "position": {
       "align": {
-        "x": "CENTER",
+        "x": "LEFT",
         "y": "TOP"
       },
       "anchor": {
-        "x": "CENTER",
+        "x": "LEFT",
         "y": "TOP"
       },
-      "x": 0,
-      "y": 0,
+      "x": 5,
+      "y": 5,
       "bossBarsOverlap": false
     },
     "color": {
@@ -42,7 +42,7 @@
           "fontColor": 10526880
         }
       ],
-      "activeTheme": "waila:vanilla"
+      "activeTheme": "waila:dark"
     },
     "scale": 1.0
   },
