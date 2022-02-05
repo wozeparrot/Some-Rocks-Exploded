@@ -166,7 +166,7 @@ hash = "3f15a8e1f719dc4004a0f90113564cdf180eee1bdf0ed5cc39d29641a037ce53"
 
 [[files]]
 file = "config/defaultsettings/Default/options.txt"
-hash = "95a488f497263eb40f9e1d21c9dbc5b06d1ec7203c2ed232dacbe860799d04ad"
+hash = "95c975addbfc0ed78c27a4317fcfafb9db3b6cdd16440d609ee7c162c7dc89cc"
 
 [[files]]
 file = "config/defaultsettings/sharedConfigs/ignore.json"
