@@ -1,6 +1,6 @@
 name = "Some Rocks Exploded"
 author = "wozeparrot"
-version = "1.0.0"
+version = "1.0.0-alpha"
 pack-format = "packwiz:1.0.0"
 
 [index]
