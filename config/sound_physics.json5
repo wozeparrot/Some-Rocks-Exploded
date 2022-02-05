@@ -10,7 +10,7 @@
 		/* The global volume of simulated reverberations.
 		   0.1 - 2.0
 		*/
-		"globalReverbGain": 1.6,
+		"globalReverbGain": 1.0,
 		/* The brightness of reverberation.
 		   Higher values result in more high frequencies in reverberation.
 		   Lower values give a more muffled sound to the reverb.
