@@ -442,7 +442,7 @@ hash = "5a47ca4f6c1b645e672b4f5b66cc23bcd5dc3f0acdc31b7e9f5c9afc8ce801c3"
 
 [[files]]
 file = "config/techreborn/items.json"
-hash = "36dafdd673bfc27bf42a56ef0b5e683e9cb5716c07e48274120d1e1e0bb62835"
+hash = "a29c81ce471962929241eb0e7ba899b398694781ed50ac7161041ac9ec28931a"
 
 [[files]]
 file = "config/techreborn/machines.json"
