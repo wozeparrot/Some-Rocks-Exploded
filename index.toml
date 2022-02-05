@@ -17,10 +17,6 @@ file = "config/appleskin.json5"
 hash = "ae87f2d1b38dfd4b1e0767dfeb539261deaaf4fd2eb73692afcbaac7147855b9"
 
 [[files]]
-file = "config/appliedenergistics2/client.json"
-hash = "5bc8328f338b7b4839bb018de5290a14f72fe9c00d82df612ffa1767af095f54"
-
-[[files]]
 file = "config/appliedenergistics2/common.json"
 hash = "df81c2b80ea6fa70f6dbc9868c88cccaa9ac5c65b5ddcbf7d84776e49bef14df"
 
@@ -63,10 +59,6 @@ hash = "da69412d15c9fab5026c0021565163db734b38b175e7b4ddd5aebd219cff9b14"
 [[files]]
 file = "config/betterend/blocks.json"
 hash = "42a792de0be657f9278157c679261b8114f4ed2efd5627ead3f3057384dde784"
-
-[[files]]
-file = "config/betterend/client.json"
-hash = "9fe05edf2b6cfaa5573d1dc6debf01181a663f0ffda407c8b3f05d2ef87e56eb"
 
 [[files]]
 file = "config/betterend/enchantments.json"
@@ -139,10 +131,6 @@ hash = "4fdaba16469ef05113c60d6d0aee2eb52371d53f41b29cafc3635706459fb6c1"
 [[files]]
 file = "config/chunky.json"
 hash = "314e5382c4f0ac6fb9fea3d5625ca136433fd996572ae78ba160896e480dbcc6"
-
-[[files]]
-file = "config/computercraft-client.toml"
-hash = "20772df2e321ec660a746f6d1a11395b62679c6301c84bacacb2f51ab02a9db1"
 
 [[files]]
 file = "config/conjuring.json5"
