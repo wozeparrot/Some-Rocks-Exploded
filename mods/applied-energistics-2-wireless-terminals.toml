@@ -1,13 +1,13 @@
 name = "Applied Energistics 2 Wireless Terminals"
-filename = "AE2WTLib-10.1.0-beta.1.jar"
+filename = "AE2WTLib-10.1.1-beta.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3630/589/AE2WTLib-10.1.0-beta.1.jar"
+url = "https://edge.forgecdn.net/files/3636/709/AE2WTLib-10.1.1-beta.2.jar"
 hash-format = "murmur2"
-hash = "2807099205"
+hash = "1618136592"
 
 [update]
 [update.curseforge]
-file-id = 3630589
+file-id = 3636709
 project-id = 459929
