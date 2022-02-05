@@ -5,7 +5,7 @@
     "matterCannonBlockDamage": true,
     "tinyTntBlockDamage": true,
     "serverOpsIgnoreSecurity": true,
-    "channels": "default",
+    "channels": "infinite",
     "pathfindingStepsPerTick": 4
   },
   "automation": {
