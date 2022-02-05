@@ -442,7 +442,7 @@ hash = "5a47ca4f6c1b645e672b4f5b66cc23bcd5dc3f0acdc31b7e9f5c9afc8ce801c3"
 
 [[files]]
 file = "config/techreborn/items.json"
-hash = "4f30779240e397718e4d6471e52a48718914cb11271a2bcf32d5331ca95523f5"
+hash = "36dafdd673bfc27bf42a56ef0b5e683e9cb5716c07e48274120d1e1e0bb62835"
 
 [[files]]
 file = "config/techreborn/machines.json"
@@ -482,7 +482,7 @@ hash = "640800920130d084dec5a3a7f52c10e18d72ed7faca522b5bcb6bb46d0dcae9b"
 
 [[files]]
 file = "config/waila/megane.json"
-hash = "6c5be3a1656a3e544633636da9b76a99675d0755ba1f6fab42569deb5a9528e9"
+hash = "d12feb5fe5ca514a903a83b506040006987b8e67e45eb4f3b559e6ce3bd790fa"
 
 [[files]]
 file = "config/waila/megane_modules.json"
@@ -490,11 +490,11 @@ hash = "db051d94510881b7b6e86b09754acbcbc089730dc725b81b80132d0e1baebe3a"
 
 [[files]]
 file = "config/waila/waila.json"
-hash = "be157cb9b3023e4c81f6804ed126cb443b07cfb40ca2145ba70eeb49f06fdd1f"
+hash = "5521c5230630146a6c3719c496565ab15a80fb8a5ae5ddee0a2f486122a6bcfb"
 
 [[files]]
 file = "config/waila/waila_plugins.json"
-hash = "8a00eef47def3f2a96bf46ed7ba6e565c51c1e56077525f5168139230082ad27"
+hash = "7c8edcab44ab1dadfe137deedaf58a7118ac19acd29476be28e14c26d1d7d801"
 
 [[files]]
 file = "config/waystones/config.json"
