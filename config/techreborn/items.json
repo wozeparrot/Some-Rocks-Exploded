@@ -188,19 +188,19 @@
   "upgrades": {
     "overclocker_speed": {
       "comment": "Overclocker behavior speed multiplier",
-      "value": 0.25
+      "value": 1.0
     },
     "super_conductor": {
       "comment": "Energy flow power increase",
-      "value": 1.0
+      "value": 2.0
     },
     "overclocker_power": {
       "comment": "Overclocker behavior power multiplier",
-      "value": 0.75
+      "value": 1.25
     },
     "energy_storage": {
       "comment": "Energy storage behavior extra power",
-      "value": 40000.0
+      "value": 120000.0
     }
   }
 }
