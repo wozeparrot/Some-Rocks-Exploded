@@ -430,7 +430,7 @@ hash = "9d0bba7129d39e84ca1b07c8a7d3377fa16a1e5622fd1750315372ae49786dc2"
 
 [[files]]
 file = "config/sound_physics.json5"
-hash = "25b35bbbf5904b3d5f581196e71a7368645066eb670aade6a931819deb770410"
+hash = "b337d5471ae266c10d92fbed32604d6b06f43a3a25cc96fe0b6f12c900474982"
 
 [[files]]
 file = "config/spiceoffabric.hjson"
